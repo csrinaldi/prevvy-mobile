@@ -1,0 +1,58 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-mobile-ocr": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-tesseract": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.logikas.hipokrates"
+    }
+  }
+}
