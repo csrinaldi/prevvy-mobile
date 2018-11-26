@@ -1,7 +1,7 @@
 {
-  "name": "com.logikas.hipokrates",
+  "name": "com.healthcentrix.prevvy",
   "version": "1.0.0",
-  "displayName": "Hipokrates",
+  "displayName": "Prevvy",
   "cordova": {
     "platforms": [
       "android"
